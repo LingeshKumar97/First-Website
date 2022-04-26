@@ -1,0 +1,25 @@
+<!DOCTYPE html><html><head><title>My Dota Favourite Hero</title>
+        <style>
+            img{
+                width: 500px;
+                border-radius: 50px;
+                float: left;
+                margin-right: 10px;
+            }
+            p{
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <img src="images/jakiro.jpg">
+        <h1 style="text-align:center;">DOTA 2</h1>
+        <p style="text-align:center;">Presenting you the superhero: Jakiro</p>
+        <a style="text-align:center;", href="mailto:lingeshkumar9710@gmail.com">Send Email</a>
+        <br>
+        <a style="text-align:center;", href="Page2.htm">More details about Jakiro</a>
+    </body>
+</html>
+
+
+
